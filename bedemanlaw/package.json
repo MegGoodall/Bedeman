@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "@revolist/vue-datagrid": "^3.0.95",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
+    "css-what": "^5.0.1",
     "vue": "^3.0.0"
   },
   "devDependencies": {
